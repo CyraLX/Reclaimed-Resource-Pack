@@ -1,0 +1,28 @@
+{
+	"pack": {
+		"pack_format": 55,
+		"supported_formats": {
+			"min_inclusive": 55,
+			"max_inclusive": 64
+		},
+		"description": [
+			{
+				"text": "PR1",
+				"color": "dark_purple"
+			},
+			{
+				"text": " | ",
+				"color": "dark_gray"
+			},
+			{
+				"text": "Reclaimed Resources",
+				"color": "gray"
+			},
+			"\n",
+			{
+				"text": "By CyraLX, Efimity and Ather",
+				"color": "dark_gray"
+			}
+		]
+	}
+}

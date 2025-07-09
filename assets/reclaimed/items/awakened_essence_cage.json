@@ -1,0 +1,78 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "aspects:item/essence_cage/awakened/missing"
+        },
+        "cases": [
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "dragonkin"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/dragonkin"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "frostling"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/frostling"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "remnant"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/remnant"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "pebblemite"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/pebblemite"
+                }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "withered"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/withered"
+                }
+            }
+        ]
+    }
+}

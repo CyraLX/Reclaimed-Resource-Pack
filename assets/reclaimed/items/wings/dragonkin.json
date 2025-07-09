@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "minecraft:condition",
+        "property": "minecraft:broken",
+        "on_false": {
+            "type": "minecraft:model",
+            "model": "reclaimed:item/wings/dragonkin"
+        },
+        "on_true": {
+            "type": "minecraft:model",
+            "model": "reclaimed:item/wings/dragonkin_broken"
+        }
+    }
+}
