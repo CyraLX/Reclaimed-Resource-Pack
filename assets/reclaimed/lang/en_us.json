@@ -79,7 +79,7 @@
     "item.reclaimed.shattered_relic.frostling.lore_4": "Dusts of ice engulfs the relic...",
     "item.reclaimed.focus.dragonkin": "Dragonkin's Focus",
     "item.reclaimed.focus.dragonkin.use_name_1": "Reinforce",
-    "item.reclaimed.focus.dragonkin.use_result_1": "Grant self %s Absorption Hearts",
+    "item.reclaimed.focus.dragonkin.use_result_1": "Grants %1$s and %2$s for %3$s seconds",
     "item.reclaimed.focus.remnant": "Remnant's Focus",
     "item.reclaimed.focus.remnant.use_name_1": "Prepare Space Anchor",
     "item.reclaimed.focus.remnant.use_name_2": "Enter Space Anchor",

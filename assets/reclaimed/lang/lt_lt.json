@@ -79,7 +79,7 @@
     "item.reclaimed.shattered_relic.frostling.lore_4": "Ledo dulkės apsupa reliktą...",
     "item.reclaimed.focus.dragonkin": "Drakonžmogio Fokusas",
     "item.reclaimed.focus.dragonkin.use_name_1": "Sustiprinti",
-    "item.reclaimed.focus.dragonkin.use_result_1": "Suteikia sau %s Absorbcijos Širdžių",
+    "item.reclaimed.focus.dragonkin.use_result_1": "Suteikia %1$s ir %2$s iki %3$s sekundžių",
     "item.reclaimed.focus.remnant": "Surinktojo Fokusas",
     "item.reclaimed.focus.remnant.use_name_1": "Paruošti Erdvės Inkarą",
     "item.reclaimed.focus.remnant.use_name_2": "Įžengti į Erdvės Inkarą",
