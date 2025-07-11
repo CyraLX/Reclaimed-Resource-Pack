@@ -38,19 +38,6 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "remnant"
-                        }
-                    }
-                },
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "reclaimed:item/essence_cage/awakened/remnant"
-                }
-            },
-            {
-                "when": {
-                    "aspects": {
-                        "awakened_essence_cage": {
                             "aspect": "pebblemite"
                         }
                     }
@@ -64,13 +51,13 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "withered"
+                            "aspect": "remnant"
                         }
                     }
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "reclaimed:item/essence_cage/awakened/withered"
+                    "model": "reclaimed:item/essence_cage/awakened/remnant"
                 }
             }
         ]
