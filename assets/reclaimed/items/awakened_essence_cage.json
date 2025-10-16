@@ -72,6 +72,19 @@
                     "type": "minecraft:model",
                     "model": "reclaimed:item/essence_cage/awakened/voidborne"
                 }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "pheonix"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/pheonix"
+                }
             }
         ]
     }
