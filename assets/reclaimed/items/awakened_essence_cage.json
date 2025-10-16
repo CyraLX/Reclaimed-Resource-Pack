@@ -59,6 +59,19 @@
                     "type": "minecraft:model",
                     "model": "reclaimed:item/essence_cage/awakened/remnant"
                 }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": "voidborne"
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/voidborne"
+                }
             }
         ]
     }
