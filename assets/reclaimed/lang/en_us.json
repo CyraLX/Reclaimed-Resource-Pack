@@ -24,6 +24,8 @@
     "advancements.reclaimed.aspect.pheonix.root": "Aspect: Pheonix",
     "advancements.reclaimed.aspect.pheonix.root.description": "Become a Pheonix",
     "advancements.reclaimed.aspect.pheonix.root.lore": "Reckless flame-chasers who thrive on danger",
+    "bossbar.reclaimed.voidborne.store_entity.stored":"Stored",
+    "bossbar.reclaimed.voidborne.store_entity.selected":"Selected",
     "item.reclaimed.aspect_picker": "Reclaimed: Your Begginings...",
     "item.reclaimed.aspect_picker.tooltip": "Select your Aspect from Reclaimed with this book",
     "item.reclaimed.aspect.dragonkin": "Aspect of Dragonkin",
