@@ -12,7 +12,10 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "dragonkin"
+                            "aspect": {
+                                "namespace": "reclaimed",
+                                "name": "dragonkin"
+                            }
                         }
                     }
                 },
@@ -25,7 +28,10 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "frostling"
+                            "aspect": {
+                                "namespace": "reclaimed",
+                                "name": "frostling"
+                            }
                         }
                     }
                 },
@@ -38,7 +44,10 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "pebblemite"
+                            "aspect": {
+                                "namespace": "reclaimed",
+                                "name": "pebblemite"
+                            }
                         }
                     }
                 },
@@ -51,7 +60,10 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "remnant"
+                            "aspect": {
+                                "namespace": "reclaimed",
+                                "name": "remnant"
+                            }
                         }
                     }
                 },
@@ -64,7 +76,10 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "voidborne"
+                            "aspect": {
+                                "namespace": "reclaimed",
+                                "name": "voidborne"
+                            }
                         }
                     }
                 },
@@ -77,7 +92,10 @@
                 "when": {
                     "aspects": {
                         "awakened_essence_cage": {
-                            "aspect": "pheonix"
+                            "aspect": {
+                                "namespace": "reclaimed",
+                                "name": "pheonix"
+                            }
                         }
                     }
                 },
