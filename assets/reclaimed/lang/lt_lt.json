@@ -72,6 +72,7 @@
     "dataPack.reclaimed.description.footer": "Surink sudužusias dalis",
     "dataPack.reclaimed.description.header": "Tapk pamirštuoju",
     "dataPack.reclaimed.description.header_format": "%1$s | %2$s",
+    "dataPack.reclaimed.resource_pack_validate": "",
     "death.attack.empowered": "%1$s mirtinai save įveikė",
     "death.attack.empowered.item": "%1$s nepavyko apsiginti nuo %2$s naudojant %3$s",
     "death.attack.empowered.player": "%1$s nepavyko apsiginti nuo %2$s",

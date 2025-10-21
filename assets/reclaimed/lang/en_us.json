@@ -72,6 +72,7 @@
     "dataPack.reclaimed.description.footer": "Put the pieces together",
     "dataPack.reclaimed.description.header": "Become the forgotten",
     "dataPack.reclaimed.description.header_format": "%1$s | %2$s",
+    "dataPack.reclaimed.resource_pack_validate": "",
     "death.attack.empowered": "%1$s overpowered themselves to death",
     "death.attack.empowered.item": "%1$s failed to empower themselves against %2$s using %3$s",
     "death.attack.empowered.player": "%1$s failed to empower themselves against %2$s",

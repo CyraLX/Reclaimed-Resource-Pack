@@ -72,6 +72,7 @@
     "dataPack.reclaimed.description.footer": "Parçaları yerine koy",
     "dataPack.reclaimed.description.header": "Unutul",
     "dataPack.reclaimed.description.header_format": "%1$s | %2$s",
+    "dataPack.reclaimed.resource_pack_validate": "",
     "death.attack.empowered": "%1$s kendilerini ölümüne güçlendirdi",
     "death.attack.empowered.item": "%1$s kendilerini %3$s'i kullanan %2$s'e karşısında güçlendirmeyi başaramadı",
     "death.attack.empowered.player": "%1$s kendilerini %2$s'e karşısında güçlendirmeyi başaramadı",
