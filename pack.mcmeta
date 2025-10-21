@@ -3,13 +3,13 @@
 		"pack_format": 55,
 		"supported_formats": {
 			"min_inclusive": 55,
-			"max_inclusive": 69
+			"max_inclusive": 71
 		},
 		"min_format": 55,
-		"max_format": 69,
+		"max_format": 71,
 		"description": [
 			{
-				"text": "PR2",
+				"text": "v1.0.0",
 				"color": "dark_purple"
 			},
 			{
@@ -22,7 +22,7 @@
 			},
 			"\n",
 			{
-				"text": "By CyraLX, Efimity and Ather",
+				"text": "By CyraLX, Efimity and Lynn",
 				"color": "dark_gray"
 			}
 		]
