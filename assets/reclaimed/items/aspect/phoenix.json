@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "reclaimed:item/relic/faded/pheonix"
+        "model": "reclaimed:item/aspect/phoenix"
     }
 }

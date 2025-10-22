@@ -1,6 +1,6 @@
 {
     "parent": "aspects:item/relic/shattered/parent",
     "textures": {
-        "layer0": "reclaimed:item/relic/shattered/pheonix"
+        "layer0": "reclaimed:item/relic/shattered/phoenix"
     }
 }

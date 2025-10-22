@@ -94,14 +94,14 @@
                         "awakened_essence_cage": {
                             "aspect": {
                                 "namespace": "reclaimed",
-                                "name": "pheonix"
+                                "name": "phoenix"
                             }
                         }
                     }
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "reclaimed:item/essence_cage/awakened/pheonix"
+                    "model": "reclaimed:item/essence_cage/awakened/phoenix"
                 }
             }
         ]

@@ -4,11 +4,11 @@
         "property": "minecraft:broken",
         "on_false": {
             "type": "minecraft:model",
-            "model": "reclaimed:item/wings/pheonix"
+            "model": "reclaimed:item/wings/phoenix"
         },
         "on_true": {
             "type": "minecraft:model",
-            "model": "reclaimed:item/wings/pheonix_broken"
+            "model": "reclaimed:item/wings/phoenix_broken"
         }
     }
 }

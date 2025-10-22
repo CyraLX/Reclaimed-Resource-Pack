@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "reclaimed:item/wings/pheonix_broken"
+        "layer0": "reclaimed:item/wings/phoenix"
     }
 }

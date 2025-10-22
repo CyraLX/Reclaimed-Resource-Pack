@@ -3,7 +3,7 @@
 	"textures": {
 		"all": "aspects:item/essence_cage/awakened_cage",
 		"glass": "minecraft:block/glass",
-		"essence": "reclaimed:item/essence_cage/awakened/pheonix",
+		"essence": "reclaimed:item/essence_cage/awakened/phoenix",
 		"particle": "#essence"
 	}
 }
