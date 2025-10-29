@@ -1,6 +1,33 @@
 {
-	"parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "reclaimed:item/focus/dragonkin"
-	}
+	},
+    "display": {
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 2, 0],
+            "scale":[ 0.6, 0.75, 0.6 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 4.0, 0.5 ],
+            "scale": [ 0.95, 1.1, 0.95 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 4.0, 0.5 ],
+            "scale": [ 0.95, 1.1, 0.95 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 4.2, 1.13 ],
+            "scale": [ 0.74, 0.9, 0.74 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 4.2, 1.13 ],
+            "scale": [ 0.74, 0.9, 0.74 ]
+        }
+    }
 }
