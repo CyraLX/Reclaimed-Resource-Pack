@@ -103,6 +103,22 @@
                     "type": "minecraft:model",
                     "model": "reclaimed:item/essence_cage/awakened/phoenix"
                 }
+            },
+            {
+                "when": {
+                    "aspects": {
+                        "awakened_essence_cage": {
+                            "aspect": {
+                                "namespace": "reclaimed",
+                                "name": "morphling"
+                            }
+                        }
+                    }
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "reclaimed:item/essence_cage/awakened/morphling"
+                }
             }
         ]
     }
