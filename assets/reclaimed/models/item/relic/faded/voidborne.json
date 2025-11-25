@@ -1,6 +1,6 @@
 {
     "parent": "aspects:item/relic/faded/parent",
     "textures": {
-        "layer0": "reclaimed:item/relic/faded/voidborne"
+        "layer1": "reclaimed:item/relic/faded/voidborne"
     }
 }
