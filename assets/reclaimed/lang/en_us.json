@@ -57,7 +57,7 @@
     "aspect.reclaimed.morphling.aquatic_form.description": "This is their natural state. They can breathe in water and land while also swimming and breaking blocks faster in water.\nUnfortunerly they're not that great at moving on land...",
     "aspect.reclaimed.morphling.description": "Very adaptable to any situation if left alone for enough time. They endure great challenges to master the elements for their own gain.",
     "aspect.reclaimed.morphling.fire_form": "Fire Form",
-    "aspect.reclaimed.morphling.fire_form.description": "After stealing the fire of the %1$s, they can become this state when under great fire pressure. They take reduced dire damage, have more armor, move faster and burn less. If they wear any armor piece with %2$s they gain full fire damage immunity.\nUnfortunerly this makes water harmful to them and are slightly taller...",
+    "aspect.reclaimed.morphling.fire_form.description": "After stealing the fire of the %1$s, they can become this state when under great fire pressure. They take reduced fire damage, have more armor, move faster and burn less. If they wear any armor piece with %2$s they gain full fire damage immunity.\nUnfortunerly this makes water harmful to them and are slightly taller...",
     "aspect.reclaimed.morphling.form.aquatic": "Aquatic",
     "aspect.reclaimed.morphling.form.fire": "Fire",
     "aspect.reclaimed.morphling.form.void": "Void",
