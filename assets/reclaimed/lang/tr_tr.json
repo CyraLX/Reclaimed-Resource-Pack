@@ -94,7 +94,6 @@
     "aspect.reclaimed.voidborne.spatial_instability": "Uzaysal Dengesizlik",
     "aspect.reclaimed.voidborne.spatial_instability.description": "Vücutları dokunmak için çokk dengesiz. Yakın dövüşte hasar aldıklarında, saldıran kişi az bir olasılıkla rastgele bir şekilde ışınlanabilir.",
     "badge_details.reclaimed.effect.switch_forms": "%s formuna Dönüş",
-    "badge_details.reclaimed.effect.switch_forms_modifiers": "%2$s formundan %1$s formuna Dönüş",
     "badge_details.reclaimed.modifier.when_active_form": "(%s formundayken)",
     "badge_details.reclaimed.modifier.when_active_form_or": "(%1$s ve ya %2$s formundayken)",
     "badge_details.reclaimed.trigger.active_form": "%s formundayken:",

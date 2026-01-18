@@ -94,7 +94,6 @@
     "aspect.reclaimed.voidborne.spatial_instability": "Erdvinis Nestabilumas",
     "aspect.reclaimed.voidborne.spatial_instability.description": "Jų kūnas per nestabilus, kad būtų galima jį liesti. Kai jie smogiami artimos kovos metu, yra maža tikimybė, kad puolėjas bus perkeltas kažkur arti.",
     "badge_details.reclaimed.effect.switch_forms": "Virsti į %s formą",
-    "badge_details.reclaimed.effect.switch_forms_modifiers": "Virsti į %1$s formą %2$s",
     "badge_details.reclaimed.modifier.when_active_form": "(Kai aktyvi forma yra %s)",
     "badge_details.reclaimed.modifier.when_active_form_or": "(Kai aktyvi forma yra %1$s arba %2$s)",
     "badge_details.reclaimed.trigger.active_form": "Kai aktyvi forma yra %s:",

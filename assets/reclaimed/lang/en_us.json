@@ -94,7 +94,6 @@
     "aspect.reclaimed.voidborne.spatial_instability": "Spatial Instability",
     "aspect.reclaimed.voidborne.spatial_instability.description": "Their body is too unstable to touch. When struck by a melee attack, there is a slight chance for the attacker to be slightly displaced.",
     "badge_details.reclaimed.effect.switch_forms": "Morph into %s form",
-    "badge_details.reclaimed.effect.switch_forms_modifiers": "Morph into %1$s form %2$s",
     "badge_details.reclaimed.modifier.when_active_form": "(When active form is %s)",
     "badge_details.reclaimed.modifier.when_active_form_or": "(When active form is %1$s or %2$s)",
     "badge_details.reclaimed.trigger.active_form": "When active form is %s:",
