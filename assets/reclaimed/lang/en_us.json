@@ -245,5 +245,17 @@
     "item.reclaimed.shattered_relic.voidborne.lore_4": "Particles still try to pull each other...",
     "item.reclaimed.wings.dragonkin": "Dragonkin's Wings",
     "item.reclaimed.wings.dragonkin.sneak_gravity": "Use %1$s (%2$s) to descend slower",
-    "item.reclaimed.wings.phoenix": "Phoenix's Wings"
+    "item.reclaimed.wings.phoenix": "Phoenix's Wings",
+    "config.reclaimed.morphling.morph_cooldown": "Morphling's Morph Cooldown",
+    "config.reclaimed.morphling.morph_cooldown.description": "How long is the morph cooldown for Morphlings in half seconds.",
+    "config.reclaimed.morphling.morph_cooldown.note": "(For example 10 will be interpreted as 5 seconds; Values 0 and less are treated as instant)",
+    "config.reclaimed.morphling.morph_duration": "Morphling's Morph Duration",
+    "config.reclaimed.morphling.morph_duration.description": "How long it takes to Morphlings to morph into a different form in half seconds.",
+    "config.reclaimed.morphling.morph_duration.note": "(For example 10 will be interpreted as 5 seconds; Values 0 and less are treated as instant)",
+    "config.reclaimed.voidborne.storage_cap": "Voidborne's Mob Storage Cap",
+    "config.reclaimed.voidborne.storage_cap.description": "How many entities Voidborne can hold at the same time.",
+    "config.reclaimed.voidborne.storage_cap.note": "(Value 0 is treated as disabled, while negative values are treated as infinite)",
+    "config.reclaimed.voidborne.storage_hp_threshold": "Voidborne's Mob Storing HP Threshold",
+    "config.reclaimed.voidborne.storage_hp_threshold.description": "How much health can the entity have before it can't be stored by Voidborne.",
+    "config.reclaimed.voidborne.storage_hp_threshold.note": "(Value 0 is treated as disabled, while negative values are treated as infinite)"
 }
