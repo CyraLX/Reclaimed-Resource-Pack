@@ -51,6 +51,7 @@
     "aspect.reclaimed.frostling.temperature_sensitive": "Temperature Sensitive",
     "aspect.reclaimed.frostling.temperature_sensitive.description": "They already possess lower health, and different climates affect them heavily.\nHot biomes leave them sluggish and weakened, while cold biomes make them agile and powerful.",
     "aspect.reclaimed.morphling": "Morphling",
+    "aspect.reclaimed.morphling.has_progression": "This Aspect has forms which need to be unlocked via gameplay first!\nCheck out „%s“ for instructions on how to unlock any referenced forms!",
     "aspect.reclaimed.morphling.adaptable_evolution": "Adaptable Evolution",
     "aspect.reclaimed.morphling.adaptable_evolution.description": "They're not the strongest, nor tallest out of all creatures, but have unmatched evolution potential. When under certain circumstances, they can change their \"form\" to something more suitable, that is if they already have an example to base it off...",
     "aspect.reclaimed.morphling.aquatic_form": "Aquatic Form",
