@@ -1,5 +1,7 @@
 {
     "reclaimed": "Reclaimed",
+    "advancements.reclaimed.root": "Reclaimed",
+    "advancements.reclaimed.root.description": "Lost and Found",
     "advancements.reclaimed.aspect.dragonkin.root": "Aspect: Dragonkin",
     "advancements.reclaimed.aspect.dragonkin.root.description": "Become a Dragonkin",
     "advancements.reclaimed.aspect.dragonkin.root.lore": "Contained Apex of The End",
