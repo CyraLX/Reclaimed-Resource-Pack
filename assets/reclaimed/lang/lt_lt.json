@@ -35,7 +35,7 @@
     "aspect.reclaimed.dragonkin.colossal.description": "Jie tiesiog milžiniški! Dėl to sunkiai nužudomi, šoka aukščiau, jų smūgiai toliau atstumia ir pasiekia didesnį nuotolį, bet patys smūgiai lėtesni, o tilpti siaurose vietose sunku...",
     "aspect.reclaimed.dragonkin.description": "Milžiniški, sparnuoti drakoniniai padarai, nenatūraliai pririšti prie žmogaus kūno. Jų egzistencija yra stebuklas savaime.",
     "aspect.reclaimed.dragonkin.draconic_wings": "Drakoniški Sparnai",
-    "aspect.reclaimed.dragonkin.draconic_wings.description": "Turi unikalius sparnus, daug atsparesnius nei paprasti ir patys suteikiančius šarvus! Skrydžio metu gali laikyti Sėlinti, kad leistųsi lėčiau.",
+    "aspect.reclaimed.dragonkin.draconic_wings.description": "Turi unikalius sparnus, daug atsparesnius nei paprasti ir patys suteikiančius šarvus! Skrydžio metu gali laikyti Sėlinti, kad leistųsi lėčiau ir judėtu pirmyn.",
     "aspect.reclaimed.dragonkin.dragon_head_attuned": "Drakono Galvos Derinimas",
     "aspect.reclaimed.dragonkin.dragon_head_attuned.description": "Nešiojant Drakono Galvą gaunama papildoma gynyba ir dar didesnė atakos žala. Bet atmink, šarvų tada beveik nėra!",
     "aspect.reclaimed.frostling": "Šaltakūnis",
@@ -241,6 +241,6 @@
     "item.reclaimed.shattered_relic.voidborne.lore_3": "Sudužo nuo savo svorio...",
     "item.reclaimed.shattered_relic.voidborne.lore_4": "Dalelės vis dar bando susitraukti...",
     "item.reclaimed.wings.dragonkin": "Drakonžmogio Sparnai",
-    "item.reclaimed.wings.dragonkin.sneak_gravity": "Laikyk %1$s (%2$s), kad leistumeisi lėčiau",
+    "item.reclaimed.wings.dragonkin.sneak_gravity": "Laikyk %1$s (%2$s), kad leistumeisi lėčiau ir judėtumėte pirmyn",
     "item.reclaimed.wings.phoenix": "Fenikso Sparnai"
 }
