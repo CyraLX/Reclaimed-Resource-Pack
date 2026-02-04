@@ -244,7 +244,7 @@
     "item.reclaimed.shattered_relic.voidborne.lore_3": "Shattered by it's own weight...",
     "item.reclaimed.shattered_relic.voidborne.lore_4": "Particles still try to pull each other...",
     "item.reclaimed.wings.dragonkin": "Dragonkin's Wings",
-    "item.reclaimed.wings.dragonkin.sneak_gravity": "Use %1$s (%2$s) to descend slower and boost forward",
+    "item.reclaimed.wings.dragonkin.sneak_gravity": "Use %1$s (%2$s) to descend slower",
     "item.reclaimed.wings.phoenix": "Phoenix's Wings",
     "config.reclaimed.morphling.morph_cooldown": "Morphling's Morph Cooldown",
     "config.reclaimed.morphling.morph_cooldown.description": "How long is the morph cooldown for Morphlings in half seconds.",
