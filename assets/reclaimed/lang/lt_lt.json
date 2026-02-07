@@ -260,5 +260,10 @@
     "config.reclaimed.voidborne.storage_hp_threshold.note": "(Value 0 is treated as disabled, while negative values are treated as infinite)",
     "config.reclaimed.pebblemite.teleport_distance": "Pebblemite's Focus' Teleport Distance",
     "config.reclaimed.pebblemite.teleport_distance.description": "How far Pebblemite can teleport forward by using the Focus in 1/10 blocks",
-    "config.reclaimed.pebblemite.teleport_distance.note": "(For example 50 will be interpreted as 5 blocks)"
+    "config.reclaimed.pebblemite.teleport_distance.note": "(For example 50 will be interpreted as 5 blocks)",
+    "item.reclaimed.focus.remnant.use_condition_2": "When used in Main Hand while not Mounting:",
+    "item.reclaimed.focus.remnant.use_condition_3": "When used in Main Hand while Mounting:",
+    "item.reclaimed.focus.remnant.use_name_3": "Enter Space Anchor: Mounting",
+    "item.reclaimed.focus.remnant.use_result_3_1": "Teleport your mount and the passengers to",
+    "item.reclaimed.focus.remnant.use_result_3_2": "the saved location while saving your current one"
 }
