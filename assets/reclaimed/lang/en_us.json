@@ -1,5 +1,8 @@
 {
     "reclaimed": "Reclaimed",
+    "reclaimed.description": "An Aspects Addon introducing new Aspects inspired by concepts that go beyond the base modification.",
+    "reclaimed.version": "v1.2.1",
+    "reclaimed.authors": "CyraLX, Efimity, Aeaylin",
     "advancements.reclaimed.root": "Reclaimed",
     "advancements.reclaimed.root.description": "Lost and Found",
     "advancements.reclaimed.aspect.dragonkin.root": "Aspect: Dragonkin",

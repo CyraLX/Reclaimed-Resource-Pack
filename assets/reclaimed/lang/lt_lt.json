@@ -1,5 +1,8 @@
 {
     "reclaimed": "Sugrąžinti",
+    "reclaimed.description": "Aspectai priedas, pristatantis naujus aspektus kurie peržengia pagrindinės modifikacijos ribas.",
+    "reclaimed.version": "v1.2.1",
+    "reclaimed.authors": "CyraLX, Efimity, Aeaylin",
     "advancements.reclaimed.aspect.dragonkin.root": "Aspektas: Drakonžmogis",
     "advancements.reclaimed.aspect.dragonkin.root.description": "Tapk Drakonžmogiu",
     "advancements.reclaimed.aspect.dragonkin.root.lore": "End'o viršutinis plėšrūnas, žmogaus kūne",
