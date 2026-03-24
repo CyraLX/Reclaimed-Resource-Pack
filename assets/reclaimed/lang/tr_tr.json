@@ -129,7 +129,7 @@
     "death.attack.immolation.item": "%1$s %3$s'ü kullanan %2$s ile savaşırken alevler içinde kayboldu",
     "death.attack.immolation.player": "%1$s %2$s ile savaşırken alevler içinde kayboldu",
     "enchantment.reclaimed.dragonkin_wings": "Boşluk Direnci",
-    "enchantment.reclaimed.phoenix_wings": "Flame Persistence",
+    "enchantment.reclaimed.phoenix_wings": "Alev Kararlılığı",
     "enchantment.reclaimed.power.morphling.switching_effects": "Morphling: Özellik Değiştirme",
     "item.reclaimed.aspect.dragonkin": "Dragonkin Aspect'i",
     "item.reclaimed.aspect.frostling": "Frostling Aspect'i",
@@ -218,7 +218,7 @@
     "item.reclaimed.focus.remnant.use_result_2": "Kaydetilmiş ışınlanma noktana ışınlanırken eski lokasyonu yeni ışınlanma noktası olarak kaydet.",
     "item.reclaimed.focus.remnant.use_result_3_1": "Bindiği Varlığı ve Yolcularını",
     "item.reclaimed.focus.remnant.use_result_3_2": "kaydetilmiş ışınlanma noktana ışınlarken eski lokasyonu yeni ışınlanma noktası olarak kaydet.",
-    "item.reclaimed.focus.voidborne": "Voidborne's Focus",
+    "item.reclaimed.focus.voidborne": "Voidborne'un Odak'ı",
     "item.reclaimed.focus.voidborne.use_name_1": "Varlık Depola",
     "item.reclaimed.focus.voidborne.use_name_2": "Varlık Çıkar",
     "item.reclaimed.focus.voidborne.use_name_3": "Varlıkların Hepsini Çıkar",
@@ -267,5 +267,5 @@
     "item.reclaimed.wings.dragonkin.sneak_gravity": "%1$s (%2$s) basılı tutarak yavaşça süzül",
     "item.reclaimed.wings.phoenix": "Anka Kuşu Kanatları",
     "reclaimed.authors": "CyraLX, Efimity, Aeaylin",
-    "reclaimed.description": "An Aspects Addon introducing new Aspects inspired by concepts that go beyond the base modification."
+    "reclaimed.description": "Aspects modu için fazla büyük ve ya farklı konseptlerle tasaarlanmış yeni Aspect'ler ekleyen bir Aspect eklentisi."
 }
